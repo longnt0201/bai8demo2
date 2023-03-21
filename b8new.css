@@ -1,0 +1,110 @@
+.bodyy{
+    display: flex;
+    padding: 0px 10px;
+}
+.head{
+    margin-bottom: 10px;
+    width: 100%;
+}
+.home{
+    display: flex;
+}
+.login{
+    display: flex;
+    position: absolute;
+    right: 5px;
+}
+.login img{
+    width: 30px;
+    height: 30px;
+    padding: 5px 0px;
+}
+li{
+    list-style-type: none;
+}
+.head{
+    background-color: rgb(116, 183, 206);
+    display: flex;
+    position: relative;
+}
+.home li{
+    padding: 10px 15px;
+}
+.login li{
+    padding: 10px 30px 10px 3px;
+}
+
+td,th{
+    border: 1px solid;
+    text-align: center;
+    padding: 10px;
+    
+}
+table {
+    border-collapse: collapse;
+    text-align: center;
+  }
+
+.manufacture,.menu2 {
+    width: 150px;
+
+}
+.menu2 li{
+    border: solid 1px;
+    padding: 5px 20px; text-align: center;
+
+}
+.menu{
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+}
+.product{
+    background-color: rgb(255, 255, 255);
+}
+.sea{
+    width: 400px;
+    margin: 20px;
+}
+.search button{
+    background-color: rgb(8, 174, 28);
+    color: azure;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+.search{
+    padding: 20px;
+
+}
+.add{
+    background-color: rgb(28, 194, 255);
+    color: azure;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 20px;
+}
+.prod{
+    padding: 20px;
+}
+.pro span{
+    width: 100px;
+}
+.edit{
+    background-color: rgb(254, 183, 16);
+    color: azure;
+    border-radius: 5px;
+    border: none;padding: 10px;
+}
+.del{
+    background-color: rgb(249, 29, 29);
+    color: azure;
+    border-radius: 5px;
+    border: none;padding: 10px;
+}
+.account{
+    float: right;
+    width: 200px;
+    background-color: rgb(212, 254, 255);
+    padding: 10px;
+}
